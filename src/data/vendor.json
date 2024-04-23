@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "company_name": "Brightdog",
+        "full_name": "Fanechka Fealty",
+        "email": "ffealty0@photobucket.com",
+        "phone_number": "+225 685 572 7232",
+        "address": "6th Floor",
+        "country": "Ivory Coast",
+        "date": "5/6/2023",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "company_name": "Kamba",
+        "full_name": "Arda Winning",
+        "email": "awinning1@bing.com",
+        "phone_number": "+7 151 456 6526",
+        "address": "Apt 240",
+        "country": "Russia",
+        "date": "10/14/2023",
+        "status": "inactive"
+    },
+    {
+        "id": 3,
+        "company_name": "Tagopia",
+        "full_name": "Marc Le Prevost",
+        "email": "mle2@istockphoto.com",
+        "phone_number": "+66 944 491 7163",
+        "address": "10th Floor",
+        "country": "Thailand",
+        "date": "5/27/2023",
+        "status": "draft"
+    },
+    {
+        "id": 4,
+        "company_name": "Minyx",
+        "full_name": "Marlo Cervantes",
+        "email": "mcervantes3@1688.com",
+        "phone_number": "+506 472 873 2470",
+        "address": "Room 1409",
+        "country": "Costa Rica",
+        "date": "6/20/2023",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "company_name": "Babblestorm",
+        "full_name": "Weston Hierro",
+        "email": "whierro4@facebook.com",
+        "phone_number": "+86 943 308 3456",
+        "address": "PO Box 83692",
+        "country": "China",
+        "date": "11/26/2023",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "company_name": "Aivee",
+        "full_name": "Filberte Heaphy",
+        "email": "fheaphy5@hp.com",
+        "phone_number": "+48 521 209 7040",
+        "address": "Room 1643",
+        "country": "Poland",
+        "date": "7/12/2023",
+        "status": "archived"
+    },
+    {
+        "id": 7,
+        "company_name": "Ozu",
+        "full_name": "Leesa Frost",
+        "email": "lfrost6@storify.com",
+        "phone_number": "+63 916 257 2538",
+        "address": "Suite 85",
+        "country": "Philippines",
+        "date": "3/24/2024",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "company_name": "Tavu",
+        "full_name": "Mallory Cushe",
+        "email": "mcushe7@bbc.co.uk",
+        "phone_number": "+62 339 994 5218",
+        "address": "PO Box 93819",
+        "country": "Indonesia",
+        "date": "8/12/2023",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "company_name": "Wikido",
+        "full_name": "Katharyn Borrel",
+        "email": "kborrel8@unesco.org",
+        "phone_number": "+44 463 590 2666",
+        "address": "16th Floor",
+        "country": "Jersey",
+        "date": "7/17/2023",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "company_name": "Izio",
+        "full_name": "Lexine Pollastro",
+        "email": "lpollastro9@multiply.com",
+        "phone_number": "+34 587 953 3299",
+        "address": "PO Box 51152",
+        "country": "Spain",
+        "date": "2/15/2024",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "company_name": "Snaptags",
+        "full_name": "Lorri Peniman",
+        "email": "lpenimana@newyorker.com",
+        "phone_number": "+86 677 394 3351",
+        "address": "Room 1978",
+        "country": "China",
+        "date": "2/9/2024",
+        "status": "active"
+    },
+    {
+        "id": 12,
+        "company_name": "Divanoodle",
+        "full_name": "Lauryn Dudeney",
+        "email": "ldudeneyb@techcrunch.com",
+        "phone_number": "+63 153 936 9779",
+        "address": "Room 1056",
+        "country": "Philippines",
+        "date": "2/3/2024",
+        "status": "active"
+    },
+    {
+        "id": 13,
+        "company_name": "Kwilith",
+        "full_name": "Talia Tiery",
+        "email": "ttieryc@163.com",
+        "phone_number": "+20 157 907 6529",
+        "address": "PO Box 75058",
+        "country": "Egypt",
+        "date": "9/24/2023",
+        "status": "active"
+    },
+    {
+        "id": 14,
+        "company_name": "Tagtune",
+        "full_name": "Teddie Rigge",
+        "email": "trigged@php.net",
+        "phone_number": "+31 878 295 5685",
+        "address": "PO Box 80168",
+        "country": "Netherlands",
+        "date": "10/21/2023",
+        "status": "active"
+    },
+    {
+        "id": 15,
+        "company_name": "Zooveo",
+        "full_name": "Sidnee Sholl",
+        "email": "ssholle@dailymail.co.uk",
+        "phone_number": "+962 694 664 8885",
+        "address": "Suite 47",
+        "country": "Jordan",
+        "date": "10/29/2023",
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "company_name": "Mycat",
+        "full_name": "Celka Beatson",
+        "email": "cbeatsonf@huffingtonpost.com",
+        "phone_number": "+86 129 612 5593",
+        "address": "3rd Floor",
+        "country": "China",
+        "date": "5/1/2023",
+        "status": "active"
+    },
+    {
+        "id": 17,
+        "company_name": "Topicblab",
+        "full_name": "Gretel Halfhide",
+        "email": "ghalfhideg@wikipedia.org",
+        "phone_number": "+261 877 157 8179",
+        "address": "Suite 81",
+        "country": "Madagascar",
+        "date": "1/29/2024",
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "company_name": "Yata",
+        "full_name": "Carlyle Lefeuvre",
+        "email": "clefeuvreh@mtv.com",
+        "phone_number": "+226 136 298 5049",
+        "address": "4th Floor",
+        "country": "Burkina Faso",
+        "date": "4/29/2023",
+        "status": "inactive"
+    },
+    {
+        "id": 19,
+        "company_name": "Fivespan",
+        "full_name": "Claudell Dunckley",
+        "email": "cdunckleyi@linkedin.com",
+        "phone_number": "+48 169 763 9025",
+        "address": "Room 323",
+        "country": "Poland",
+        "date": "4/13/2024",
+        "status": "draft"
+    },
+    {
+        "id": 20,
+        "company_name": "Trudoo",
+        "full_name": "Raina Strathearn",
+        "email": "rstrathearnj@etsy.com",
+        "phone_number": "+86 960 646 2738",
+        "address": "Apt 112",
+        "country": "China",
+        "date": "12/11/2023",
+        "status": "archived"
+    }
+]
