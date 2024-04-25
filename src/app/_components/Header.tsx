@@ -31,12 +31,11 @@ export default function Header() {
     }
 
     return (
-        <div className="fixed w-full bg-background">
-            <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8 border-b dark:border-b-slate-900">
+        <div className="fixed w-full bg-background z-40 ">
+            <div className="mx-auto flex max-w-7xl items-center justify-between z-50 px-4 py-2 sm:px-6 lg:px-8 border-b dark:border-b-slate-900">
                 <div className="inline-flex items-center space-x-2">
                     <span className="font-normal dark:text-white">Hello! <b>Muhammad</b></span>
                 </div>
-
                 <div className="hidden lg:flex lg:flex-row">
                     <div className='flex flex-row align-center mr-4'>
                         <ModeToggle />

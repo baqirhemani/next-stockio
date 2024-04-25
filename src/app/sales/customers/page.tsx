@@ -2,9 +2,9 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/com
 import React, { useMemo } from 'react'
 import PageHeader from '@/app/_components/PageHeader'
 import { DataTable } from '@/app/_components/data-table/data-table'
-import { columns } from './_components/columns'
+import { columns } from '@/_c'
 import path from 'path'
-import { vendorSchema } from './_components/data/schema'
+import { vendorSchema } from '@/app/purchases/vendors/_components/data/schema'
 import { z } from 'zod'
 import { promises as fs } from "fs"
 import vendorJSON from '../../../constants/data/vendor.json'
